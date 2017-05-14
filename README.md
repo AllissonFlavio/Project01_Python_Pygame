@@ -1,3 +1,9 @@
 # Project01_Python_Pygame
 Pygame - Mathematics
-teste
+
+
+Anderson Ferreira
+
+Allisson Flávio
+
+Diego Sabino
