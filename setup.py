@@ -1,6 +1,6 @@
 import sys
 from cx_Freeze import setup, Executable
-
+"""Arquivo usado para criar o executável com a API cx_freeze"""
 # Dependencies are automatically detected, but it might need fine tuning.
 build_exe_options = {"packages": ["os"], "excludes": ["tkinter"]}
 
